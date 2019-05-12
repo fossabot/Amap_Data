@@ -4,7 +4,7 @@ import json
 from bs4 import BeautifulSoup
 
 # 设置参数,ak和url
-amap_api_key = 'aebe8987a93ab393b85e37c34b064f27'  # 输入自己的ak
+amap_api_key = ''  # 输入自己的ak
 poi_search_url = 'https://restapi.amap.com/v3/place/around?'
 
 # 设置POI爬取区域
