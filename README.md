@@ -1,4 +1,6 @@
 ## English Verison
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshawnhuangyh%2FAmap_Data.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshawnhuangyh%2FAmap_Data?ref=badge_shield)
+
 # Amap_Data
 A Python project to get data from Amap.
 # About
@@ -19,3 +21,7 @@ The code has finished and it works.The code isn't perfect, but at least it works
 这个代码已经完成了，并且可以使用了，虽然代码不是很完美（比如不能直接导出成Excel），但是至少可以获取到数据。
 
 事实上，这也是我在Github上提交的第一个开源项目，慢慢来吧。
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshawnhuangyh%2FAmap_Data.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshawnhuangyh%2FAmap_Data?ref=badge_large)
